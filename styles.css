@@ -1,7 +1,9 @@
+/* SITE */
+
 .primo-content h1 {
     --text-opacity: 1;
-    color: #1a202c;
-    color: rgba(26, 32, 44, var(--text-opacity));
+    color: #161e2e;
+    color: rgba(22, 30, 46, var(--text-opacity));
     font-size: 4rem;
     font-weight: 900;
     line-height: 1;
